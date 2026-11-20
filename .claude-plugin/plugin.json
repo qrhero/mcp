@@ -1,0 +1,14 @@
+{
+  "name": "qrhero",
+  "displayName": "QR Hero",
+  "version": "1.0.0",
+  "description": "Create, update and report on dynamic QR codes in your QR Hero account: campaigns, printed codes that need a new destination, scan reports and moving codes over from another generator.",
+  "author": {
+    "name": "QR Hero",
+    "url": "https://qrhero.com"
+  },
+  "homepage": "https://docs.qrhero.com/mcp",
+  "repository": "https://github.com/qrhero/mcp",
+  "license": "MIT",
+  "keywords": ["qr-code", "dynamic-qr", "marketing", "print", "analytics"]
+}
